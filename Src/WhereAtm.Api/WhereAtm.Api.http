@@ -1,0 +1,6 @@
+@WhereAtm.Api_HostAddress = http://localhost:5245
+
+GET {{WhereAtm.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -28,7 +28,7 @@ A simple API to help find nearby ATMs (Madagascar) and check their operational s
 ```bash
 git clone https://github.com/herostoky/where-atm.git
 cd Src/
-dotnet run
+dotnet run --project WhereAtm.Api
 ```
 
 ## Contributions
