@@ -1,4 +1,3 @@
-
 # WhereAtm API
 
 A simple API to help find nearby ATMs (Madagascar) and check their operational status.
